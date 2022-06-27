@@ -208,7 +208,7 @@ function createProducts(array) {
 let carrito = localStorage.getItem("carrito");
 isLogged(getUserName(sessionStorage) || getUserName(localStorage));
 
-fetch('../data.json')
+fetch("data.json")
     .then((respuesta) => respuesta.json())
     .then((data) => {
         createProducts(data);
