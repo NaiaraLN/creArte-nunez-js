@@ -1,0 +1,49 @@
+[{
+        "id": 1,
+        "nombre": "Chica al óleo",
+        "precio": 900,
+        "img": "img/producto1.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Anochecer",
+        "precio": 1200,
+        "img": "img/anochecer.jpeg"
+    },
+    {
+        "id": 3,
+        "nombre": "Noche Colorida",
+        "precio": 1300,
+        "img": "img/nocheLuminosa.jpeg"
+    },
+    {
+        "id": 4,
+        "nombre": "Pavo Real",
+        "precio": 1500,
+        "img": "img/pavoReal.jpeg"
+    },
+    {
+        "id": 5,
+        "nombre": "Plantas",
+        "precio": 1500,
+        "img": "img/plants.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Romance",
+        "precio": 1000,
+        "img": "img/romance.jpeg"
+    },
+    {
+        "id": 7,
+        "nombre": "Fuego",
+        "precio": 1300,
+        "img": "img/fuego.jpeg"
+    },
+    {
+        "id": 8,
+        "nombre": "Lluvia",
+        "precio": 1900,
+        "img": "img/lluviaNostalgica.jpeg"
+    }
+]
