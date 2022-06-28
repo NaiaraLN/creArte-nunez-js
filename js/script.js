@@ -74,6 +74,7 @@ buyProducts.addEventListener('click', () => {
         )
         cartContent.length = 0;
         updateCart();
+        modal.classList.remove('modal--show');
     }else{
         Swal.fire('Su carrito está vacío');
     }
