@@ -73,7 +73,6 @@ buyProducts.addEventListener('click', () => {
             'success'
         )
         cartContent.length = 0;
-        modal.classList.remove('modal--show');
         updateCart();
         
     }else{
